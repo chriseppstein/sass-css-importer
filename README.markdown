@@ -12,7 +12,7 @@ special prefix on the import string and omit the extension.
 
 ## Installation
 
-    $ gem install sass-css-importer
+    $ gem install --pre sass-css-importer
 
 ## Use with the Sass command line
 
