@@ -29,7 +29,7 @@ Add the following to your compass configuration:
 
 ## More complex scenarios
 
-This plugin assumes you want to import CSS files relative to a sass
+This plugin assumes you want to import CSS files relative to a Sass
 file. More complex scenarios are acheivable by adding a CSS Importer to
 the Sass load path option explicitly.
 
