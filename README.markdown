@@ -8,7 +8,7 @@ The `.css` extension triggers special behavior in Sass so you cannot
 import a file with a CSS extension. To work around this, you must use a
 special prefix on the import string and omit the extension.
 
-    @import "CSS:library/some_css_file"
+    @import "CSS:some_folder/some_css_file"
 
 ## Installation
 
